@@ -55,7 +55,6 @@ This project investigates high-confidence candidate photosynthesis genes in *Chl
 - The complexity of biological systems and gene function prediction  
 - How to interpret and validate results using multiple analytical methods  
 
----
 
 ## How It Could Be Improved
 - Apply the pipeline to all high-confidence genes at scale  
